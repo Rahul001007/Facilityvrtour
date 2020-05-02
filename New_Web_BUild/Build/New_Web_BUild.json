@@ -1,0 +1,16 @@
+{
+"companyName": "vizara",
+"productName": "Facility_VR_Tour",
+"productVersion": "0.1",
+"dataUrl": "New_Web_BUild.data.unityweb",
+"wasmCodeUrl": "New_Web_BUild.wasm.code.unityweb",
+"wasmFrameworkUrl": "New_Web_BUild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.11f1"
+}
